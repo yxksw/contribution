@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="335" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="338" class="">
     <defs>
         <style/>
     </defs>
@@ -26,7 +26,7 @@
                                         <span>starred 1 day ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">A CMS integrated static blog template</div>
+                                <div class="field description">A CMS integrated static blog template | 支持后台管理的静态博客模板</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SPlayer-Dev/SPlayer-Next</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">【请勿使用，未完成】</div>
@@ -176,7 +176,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clark-cui/vitepress-blog-zaun</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a nice blog theme use vitepress to build</div>
